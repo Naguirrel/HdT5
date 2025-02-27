@@ -1,4 +1,4 @@
-import simpy
+import simpy # type: ignore
 import random
 import numpy as np
 import matplotlib.pyplot as plt
